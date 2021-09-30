@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [https://car-purchase-decision.herokuapp.com/](htttps://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
 [![](https://i.imgur.com/zKgLX4r.png)](htttps://flight-price-prediction-api.herokuapp.com/)
 
