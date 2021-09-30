@@ -12,11 +12,11 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://car-purchase-decision.herokuapp.com/](https://car-purchase-decision.herokuapp.com/)
 
-[![](https://i.imgur.com/zKgLX4r.png)](htttps://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/zKgLX4r.png)](https://car-purchase-decision.herokuapp.com/)
 
-[![](https://i.imgur.com/75wKpen.png)](htttps://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/75wKpen.png)](https://car-purchase-decision.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which helps customer decision making while purchasing car
